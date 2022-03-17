@@ -1,0 +1,6 @@
+My name is Sanjay Kumar
+I am live in Moradabad
+I want this to go into commit2
+changed by sanjay 
+
+This is a changed now
